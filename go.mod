@@ -1,11 +1,11 @@
 module go-api-template
 
-go 1.23.5
+go 1.24.2
 
 require (
 	github.com/gin-gonic/gin v1.10.0
 	github.com/go-openapi/strfmt v0.23.0
-	github.com/go-playground/validator/v10 v10.25.0
+	github.com/go-playground/validator/v10 v10.26.0
 	github.com/goccy/go-json v0.10.5
 	github.com/jmoiron/sqlx v1.4.0
 	github.com/joho/godotenv v1.5.1
@@ -13,7 +13,7 @@ require (
 	github.com/nu7hatch/gouuid v0.0.0-20131221200532-179d4d0c4d8d
 	github.com/pkg/errors v0.9.1
 	github.com/rs/cors v1.11.1
-	github.com/spf13/viper v1.20.0
+	github.com/spf13/viper v1.20.1
 	github.com/stretchr/testify v1.10.0
 	github.com/swaggo/swag v1.16.4
 	go.uber.org/zap v1.27.0
